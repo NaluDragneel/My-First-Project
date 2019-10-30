@@ -1,0 +1,28 @@
+.footer-input input {
+    height: 30px;
+    width: 330px
+
+}
+
+.footer-input button {
+    height: 30px;
+    width: 55px;
+}
+
+.fab {
+    font-size: 2em;
+    color: #ffffff
+}
+
+/* ********************About Styles*****************
+
+.container {
+    height: 700px;
+    width: 100%;
+}
+
+.container-box {
+    height: 650px;
+    width: 30%;
+    border: 3px solid red;
+} */
